@@ -1,6 +1,6 @@
 # ATC-Lite_Edit
-***I do not own these codes but used them with slight modification to make my applicaitons work
-hopefully you can search less by my collection here.***
+***I do not entirely own the code, I started with open source code and made modifications to 
+make my applicaitons work hopefully you can search less by my collection here.***
 I used the open source code available for the Android app ATC-Lite to send data via bluetooth to my own custom applications. 
 I do not own the code , I edited it a lot but it was created by Github user JuanLuisGonzalez. He did not post the code on 
 Github but made it freely available via his amazing Android app named Arduino Total Control or ATC.
